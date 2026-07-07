@@ -30,7 +30,7 @@ O sistema utiliza o **LangGraph** para orquestrar a tomada de decisão através 
 ## 🚀 Como Executar o Projeto
 
 ### 1. Clonar o repositório
-```bash
+``bash
 git clone [https://github.com/seu-usuario/sac-agente-inteligente.git](https://github.com/seu-usuario/sac-agente-inteligente.git)
 cd sac-agente-inteligente 
 
